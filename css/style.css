@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background: #2D2E36;
+    font-family: 'Poppins';
+}
+
+.container{
+     max-width: 270px; 
+     margin: 1rem; 
+     padding: 1rem;
+     border-radius: .4rem;
+     background: #383A45;
+
+
+}
+
+img {
+    width: 100%;
+    border-radius: .2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
